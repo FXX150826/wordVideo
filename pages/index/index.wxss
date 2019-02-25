@@ -1,0 +1,14 @@
+/**index.wxss**/
+video{
+  width: 100%;
+}
+input{
+  width: ;
+
+  margin:30px;
+  border:1px solid #ccc;
+}
+button{
+  background: greenyellow;
+  margin: 10px 20px;
+}
